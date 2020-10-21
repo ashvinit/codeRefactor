@@ -69,11 +69,15 @@ p {
     margin-left: 25px;
 }
 
+/* top bar */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* side bar */
 
 .benefits {
     margin-right: 20px;
@@ -103,6 +107,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* description of top bar */
 
 .search-engine-optimization,
 .online-reputation-management,
